@@ -1,5 +1,5 @@
-That is a project 
 
 
-
-
+Coursera R Programming Projects!
+----------------------------------------
+By Luqi
