@@ -2,5 +2,5 @@
 
 Coursera R Programming Assignment!
 ----------------------------------------
-###By Luqi
+###By Luqi (Lucy) Yao
   
