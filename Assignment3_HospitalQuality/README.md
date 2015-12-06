@@ -1,3 +1,8 @@
+Programming Assignment 1: Hospital Quality
+--------------------------------------------
+
+View the detailed instruction : [click](https://d396qusza40orc.cloudfront.net/rprog%2Fdoc%2FProgAssignment3.pdf)
+
 Part_1  Finding the best hospital in a state
 --------------------------------------------------------
 Write a function called best that take two arguments: the 2-character abbreviated name of a state and an
@@ -10,4 +15,4 @@ Handling ties. If there is a tie for the best hospital for a given outcome, then
 be sorted in alphabetical order and the first hospital in that set should be chosen (i.e. if hospitals “b”, “c”,
 and “f” are tied for best, then hospital “b” should be returned).
 
-View the detailed instruction : [click](https://d396qusza40orc.cloudfront.net/rprog%2Fdoc%2FProgAssignment3.pdf)
+
