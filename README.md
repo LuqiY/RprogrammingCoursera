@@ -1,6 +1,6 @@
 
 
-Coursera R Programming Projects!
+Coursera R Programming Assignment!
 ----------------------------------------
 ###By Luqi
   
